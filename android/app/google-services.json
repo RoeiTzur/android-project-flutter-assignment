@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342275380785",
+    "firebase_url": "https://hellome-ff6a6.firebaseio.com",
+    "project_id": "hellome-ff6a6",
+    "storage_bucket": "hellome-ff6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342275380785:android:eeb0e74a5698a93770e710",
+        "android_client_info": {
+          "package_name": "com.technion.android.hello_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342275380785-blab8rka2asmvmgduhrglqksg5u9v157.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YwOdqzTSq0xjg4nw01V0SuStobrh2R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342275380785-blab8rka2asmvmgduhrglqksg5u9v157.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
